@@ -1,0 +1,8 @@
+{
+  "name": "Immersive Class Picker",
+  "description": "A 3D particle-based student selector controlled by hand gestures, featuring AI-generated trivia questions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
