@@ -22,7 +22,7 @@ export const UIOverlay: React.FC<UIOverlayProps> = ({
       <div className="flex justify-between items-start">
         <div className="bg-black/60 backdrop-blur-md p-6 rounded-xl border-l-4 border-cyan-500 shadow-[0_0_20px_rgba(6,182,212,0.3)]">
           <h1 className="text-4xl font-black tracking-tighter text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600">
-            CLASS<span className="text-white">PICKER</span>.AI
+            24数媒2<span className="text-white">点名系统</span>.AI
           </h1>
           <p className="text-cyan-200/60 mt-2 font-mono text-sm">
             SYSTEM STATUS: <span className={appState === AppState.IDLE ? "text-green-400" : "text-yellow-400"}>{appState}</span>
